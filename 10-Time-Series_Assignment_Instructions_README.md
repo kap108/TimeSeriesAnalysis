@@ -16,21 +16,6 @@ You will gain proficiency in the following tasks:
 
 - - -
 
-### Files
-
-Use the following starter code to complete this assignment. 
-
-Note: The starter code shows example calculations and figures to use as a guide. However, your actual output may differ depending on the code and data used.
-
-[Time-Series Starter Notebook](Starter_Code/time_series_analysis.ipynb)
-
-[Linear Regression Starter Notebook](Starter_Code/regression_analysis.ipynb)
-
-[Yen Data CSV File](Starter_Code/yen.csv)
-
-- - -
-
-### Instructions
 
 #### Time-Series Forecasting
 
@@ -75,10 +60,4 @@ Use the results of the linear regression analysis and modeling to answer the fol
 
 - - -
 
-### Submission
 
-* Create Jupyter Notebooks for the analysis and host the notebooks on GitHub.
-
-* Include a Markdown that summarizes your models and findings and include this report in your GitHub repo.
-
-* Submit the link to your GitHub project to Bootcampspot.
